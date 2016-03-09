@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">課堂練習1014-009</string>
+
+    <string name="label_sex">性別:</string>
+    <string name="la_year">年紀:</string>
+    <string name="action_settings">設定</string>
+
+</resources>
