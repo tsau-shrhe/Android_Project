@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">20160421-按鈕練習</string>
+        <string name="view_text">請按按鈕!!</string>
+        <string name="show_text">Holle~Word</string>
+        <string name="btn_text">計算</string>
+        <string name="view_title">簡易加法器</string>
+        <string name="view_num01">數字1</string>
+        <string name="view_num02">數字2</string>
+</resources>

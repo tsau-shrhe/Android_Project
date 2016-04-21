@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20160421-button pratice</string>
+    <string name="view_text">push button!!</string>
+    <string name="show_text">Holle~Word</string>
+    <string name="btn_text">Compute</string>
+    <string name="view_title">Adder</string>
+    <string name="view_num01">num01</string>
+    <string name="view_num02">num02</string>
+</resources>
